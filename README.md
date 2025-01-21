@@ -1,4 +1,4 @@
-## Olá! Meu nome é Joaquim Neto conhecido por Kon33
+## Olá! Meu nome é Joaquim conhecido por Neto 
 
 - 🔭 Atualmente trabalho somente com edição de fotos e videos. Futuramente desejo engressar em projetos e empresas na area de programação e desenvolvimentos
 - 🌱 Cursando Engenharia de Software
