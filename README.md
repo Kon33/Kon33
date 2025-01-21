@@ -43,5 +43,4 @@
   </a>
 
 </div>
-![Snake animation](https://github.com/Kon33/Kon33/blob/output/github-contribution-grid-snake.svg)
 
